@@ -1,1 +1,0 @@
-# pneumonia_detection_from_chest_xrays
