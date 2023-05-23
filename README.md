@@ -15,10 +15,10 @@ Assist radiologists to detect pneumonia from the screening of chest X-ray 2D ima
 The algorithm intended for use on both male and female from the ages of 1-46 who have been administered a screening of chest X-ray scan either through PA or AP view position on detection of pneumonia.
 
 **Device Limitations:**
-The device is designed to output result faster with a computer that has GPU installed. There could be a computational limitaion where there is lack of modern computer to facilitate the usuage of the algorithm.
+The device is designed to output result faster with a computer that has GPU installed. There could be a computational limitaion where there is lack of modern computer to facilitate the usage of the algorithm.
 
 **Clinical Impact of Performance:**
-Algorithm efficient could begin to deliquench in the presence of other diseases that could impact the performance through sensitivity and specifivity, this diseases includes infiltration,atelectasis,edema and effusion.
+Algorithm efficient could begin to diminish in the presence of other diseases that could impact the performance through sensitivity and specifivity, this diseases includes infiltration,atelectasis,edema and effusion.
 
 ### 2. Algorithm Design and Function
 
