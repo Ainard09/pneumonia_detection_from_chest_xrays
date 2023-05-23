@@ -12,7 +12,7 @@
 Assist radiologists to detect pneumonia from the screening of chest X-ray 2D imaging
 
 **Indications for Use:**
-The algorithm intended for use on both male and female from the ages of 1-46 ages who have been administered a screening of chest X-ray scan either through PA or AP view position on detection of pneumonia.
+The algorithm intended for use on both male and female from the ages of 1-46 who have been administered a screening of chest X-ray scan either through PA or AP view position on detection of pneumonia.
 
 **Device Limitations:**
 The device is designed to output result faster with a computer that has GPU installed. There could be a computational limitaion where there is lack of modern computer to facilitate the usuage of the algorithm.
